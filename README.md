@@ -29,7 +29,6 @@ To run this project, you'll need the following:
    ```python
    app_id = 'YOUR_APP_ID'
    app_secret = 'YOUR_APP_SECRET'
-   redirect_uri = 'YOUR_REDIRECT_URI'
    ```
 
 4. Run the Flask app:
@@ -49,9 +48,7 @@ To run this project, you'll need the following:
 
 We welcome contributions to improve Flask Facebook Login. If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
